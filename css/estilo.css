@@ -1,0 +1,111 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	background-color:  url(img/images.jpg));
+	color: black;
+	font-family: "Showcard Gothic";
+}
+
+#marco
+{
+	position: relative;
+	margin: 0 auto; 
+	width: 200px;
+	height: 50px;
+	padding-top: 450px;
+	margin-top: 50px;
+	border-radius: 20px;
+	border: 4px solid white;
+	background-color:  url(img/images.jpg));
+	box-shadow: inset 0 0 10px black;
+	bottom: 250px;
+	left: -87.5px;
+	background-image: url(../img/images.png);
+}
+
+
+#forma
+{
+	width: 100px;
+	height: 200px;
+	margin: 0 auto; 
+	border-radius: 50px 50px 0 0;
+	background-color: rgba(88, 176, 42, 1);
+	cursor: wait ;
+	
+}
+
+#forma1
+{
+	width: 40px;
+	height: 50px;
+	background-color: rgba(88, 129, 42, 1);
+	position: relative;
+	bottom: -150px;
+	left: 30px;
+}
+
+#forma2
+{
+	width: 20px;
+	height: 25px;
+	background-color: rgba(102, 227, 42, 1);;
+	position: relative;
+	bottom: -25px;
+	left: 10px;
+}
+
+#forma3
+{
+	
+	width: 180px;
+	height: 20px;
+	margin: 0 auto; 
+	position: relative;
+	background-color: rgba(88, 176, 42, 1);
+	bottom: -23px;
+	left:-80px;
+
+
+}
+
+#forma4
+{
+	width: 10px;
+	height: 140px;
+	margin: 0 auto; 
+	background-color: rgba(0, 0, 0, 0.4);
+	position: relative;
+	bottom: -20px;
+	left:9px;
+}
+
+#forma5
+{
+	width: 10px;
+	height: 180px;
+	margin: 0 auto;
+	background-color: rgba(0, 0, 0, 0.4);
+	position: relative;
+	bottom: 0px;
+	left:-20px;
+
+}
+
+#forma:hover
+{
+	background: rgba(0, 255, 2, 1);
+
+	
+}
+
+#forma1:hover
+{
+	background:  rgba(88, 176, 42, 1);
+
+	
+}
